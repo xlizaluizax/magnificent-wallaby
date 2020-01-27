@@ -66,11 +66,11 @@ sections:
   label: Site Menus
   templates:
   - site_menus
-upload_dir: static/images
-public_path: "/images"
+upload_dir: uploads
+public_path: media
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":filename:"
+use_front_matter_path: 
+file_template: ":filename:, :year:, :month:, :day:"
 build:
   preview_output_directory: public
   install_dependencies_command: npm install
