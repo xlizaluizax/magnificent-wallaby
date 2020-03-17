@@ -4,7 +4,8 @@
   "accent_color": "pink",
   "header": {
     "title": "OnlineDatingPulse",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "media/icons8-favorite-chat-message-100 (1), 2020, 03, 17.png"
   },
   "footer": {
     "content": "&copy; Stackbit-Exto. All rights reserved.",
